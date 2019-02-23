@@ -21,6 +21,9 @@ url: "https://kristijancetina.github.io/" # the base hostname & protocol for you
 
 show_excerpts: true
 
+header_pages:
+  - about.md
+
 twitter_username: kristijancetina
 github_username:  kristijancetina
 
