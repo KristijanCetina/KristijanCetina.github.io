@@ -24,7 +24,7 @@ show_excerpts: true
 header_pages:
   - about.md
   - index.md
-  - Home
+  - index.html
 
 twitter_username: kristijancetina
 github_username:  kristijancetina
