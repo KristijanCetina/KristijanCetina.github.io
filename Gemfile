@@ -9,7 +9,11 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 <<<<<<< HEAD
+<<<<<<< HEAD
 gem "jekyll", "~> 4.2.0"
+=======
+gem "jekyll", "~> 3.8.5"
+>>>>>>> parent of 5c54a2d... test
 =======
 gem "jekyll", "~> 3.8.5"
 >>>>>>> parent of 5c54a2d... test
